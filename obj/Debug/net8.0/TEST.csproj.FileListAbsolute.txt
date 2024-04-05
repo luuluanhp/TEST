@@ -1,0 +1,15 @@
+C:\0_LUAN\GitHub\TEST\bin\Debug\net8.0\TEST.exe
+C:\0_LUAN\GitHub\TEST\bin\Debug\net8.0\TEST.deps.json
+C:\0_LUAN\GitHub\TEST\bin\Debug\net8.0\TEST.runtimeconfig.json
+C:\0_LUAN\GitHub\TEST\bin\Debug\net8.0\TEST.dll
+C:\0_LUAN\GitHub\TEST\bin\Debug\net8.0\TEST.pdb
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.AssemblyInfoInputs.cache
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.AssemblyInfo.cs
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.csproj.CoreCompileInputs.cache
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.sourcelink.json
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.dll
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\refint\TEST.dll
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.pdb
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\TEST.genruntimeconfig.cache
+C:\0_LUAN\GitHub\TEST\obj\Debug\net8.0\ref\TEST.dll
